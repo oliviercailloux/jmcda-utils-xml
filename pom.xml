@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.decision_deck.jmcda</groupId>
-		<artifactId>jmcda</artifactId>
+		<artifactId>jmcda-pom</artifactId>
 		<version>0.5.4-SNAPSHOT</version>
 	</parent>
 	<artifactId>jmcda-utils-xml</artifactId>
