@@ -2,8 +2,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>org.decision_deck.jmcda</groupId>
-		<artifactId>jmcda-pom</artifactId>
+		<groupId>io.github.oliviercailloux.jmcda</groupId>
+		<artifactId>pom</artifactId>
 		<version>0.5.4-SNAPSHOT</version>
 	</parent>
 	<artifactId>jmcda-utils-xml</artifactId>
