@@ -6,13 +6,13 @@
 		<artifactId>pom</artifactId>
 		<version>0.5.4-SNAPSHOT</version>
 	</parent>
-	<artifactId>jmcda-utils-xml</artifactId>
+	<artifactId>utils-xml</artifactId>
 	<name>Decision Deck XML utils</name>
 	<description>Various classes providing utility methods related to XML and not specifically related to MCDA methods.</description>
 	<dependencies>
 		<dependency>
 			<groupId>${project.groupId}</groupId>
-			<artifactId>jmcda-utils</artifactId>
+			<artifactId>utils</artifactId>
 			<version>${project.version}</version>
 		</dependency>
 		<dependency>
